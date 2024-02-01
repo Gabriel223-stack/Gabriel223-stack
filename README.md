@@ -10,6 +10,8 @@
 
 ![Gabriel223-stack GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel223-stack&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel223-stack&demo_progress=true)
+
 ## Tecnologias que estudo
 
 <div display= "inline_block"><br/>
